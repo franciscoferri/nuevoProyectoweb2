@@ -12,7 +12,7 @@ $persona = [
               ?>
 
 $auto = [
-            "marca" => "ford"
+            "marca"  => "ford"
             "modelo  => "focus"
             "año"    => 2017 
           ;
