@@ -19,3 +19,4 @@ $auto = [
 
           foreach ($auto as $posicion  => $valor)
            echo "$valor <br>";
+   ?>
